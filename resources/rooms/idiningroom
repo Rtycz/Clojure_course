@@ -1,0 +1,2 @@
+{:desc "You find yourself in dining room."
+ :exits {:south :npatio :east :jkitchen}}

@@ -1,0 +1,2 @@
+{:desc "You are in ligh coloured bath-room."
+ :exits {:south :hbadroom}}

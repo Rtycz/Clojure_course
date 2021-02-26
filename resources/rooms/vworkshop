@@ -1,0 +1,2 @@
+{:desc "You find yourself in a workshop."
+ :exits {:north :rgarage}}

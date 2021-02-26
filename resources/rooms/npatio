@@ -1,0 +1,2 @@
+{:desc "You find yourself in a patio."
+ :exits {:north :idiningroom :south :sbooth}}

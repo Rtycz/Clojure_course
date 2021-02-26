@@ -1,0 +1,2 @@
+{:desc "You find yourself in dressing room."
+ :exits {:north :khallway :south :tcellar :west :ogym}}

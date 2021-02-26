@@ -1,0 +1,2 @@
+{:desc "You are in old attic."
+ :exits {:west :aroof :south :estairs}}

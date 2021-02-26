@@ -1,0 +1,2 @@
+{:desc "You see a booth for dog."
+ :exits {:north :npatio}}

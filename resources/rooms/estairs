@@ -1,0 +1,3 @@
+{:desc "You are stay in front of long stairs."
+ :lock #{:keys}
+ :exits {:north :battic :east :fsittingroom}}

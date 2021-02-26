@@ -1,0 +1,2 @@
+{:desc "You are spacious roof."
+ :exits {:east :battic}}

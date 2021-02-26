@@ -1,0 +1,3 @@
+{:desc "You find yourself in tiny cabinet."
+ :lock #{:keys}
+ :exits {:west :fsittingroom :east :hbadroom}}

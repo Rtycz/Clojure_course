@@ -1,0 +1,2 @@
+{:desc "You find yourself in basement(podval)."
+ :exits {:north :qgarden :west :tcellar}}

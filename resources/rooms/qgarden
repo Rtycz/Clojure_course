@@ -1,0 +1,2 @@
+{:desc "You find yourself in a round garden."
+ :exits {:north :lpromenade :south :ubasement :east :rgarage}}

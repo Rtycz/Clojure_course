@@ -1,0 +1,2 @@
+{:desc "You find yourself in a gym."
+ :exits {:east :pdressingroom}}

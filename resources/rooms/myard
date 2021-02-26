@@ -1,0 +1,2 @@
+{:desc "You find yourself in a green yard."
+ :exits {:south :rgarage :west :lpromenade}}

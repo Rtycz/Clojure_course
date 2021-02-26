@@ -1,0 +1,3 @@
+{:desc "You find yourself in a cellar."
+ :exits {:north :pdressingroom :east :ubasement}
+ :items #{:keys}}
